@@ -38,12 +38,12 @@ I have published approximately **180 papers** in international journals and conf
 
 Selected research areas include:
 
-- Fuzzy systems and computational intelligence
-- Machine learning and deep learning
+-  Machine learning and deep learning
 - Large language models and foundation models
 - Retrieval-Augmented Generation
-- Time-series forecasting
+- Time-series forecasting by Deep models
 - AI-based biological and behavioral analysis
+- Fuzzy systems and computational intelligence
 
 ---
 
@@ -63,11 +63,11 @@ Currently, I am particularly interested in:
 
 - Foundation models and LLM-based intelligent systems
 - Artificial General Intelligence and Cognitive approaches in AI. 
-- RAG and Self-RAG architectures
-- Fuzzy approaches for modern AI systems
+- Advanced RAG architectures
 - Time-series forecasting with deep learning and foundation models
 - AI applications in biological and behavioral research
 - Benchmarking and evaluation of AI models
+- Fuzzy approaches for modern AI systems
 
 ---
 
