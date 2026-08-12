@@ -38,7 +38,7 @@ I have published approximately **180 papers** in international journals and conf
 
 Selected research areas include:
 
-[Augmenting RAG with NMF Driven Semantic Chunking]([GOOGLE_SCHOLAR_PAPER_LINK](https://link.springer.com/article/10.1007/s11227-026-08370-3))
+[Augmenting RAG with NMF Driven Semantic Chunking]([https://link.springer.com/article/10.1007/s11227-026-08370-3])
 
 ---
 
