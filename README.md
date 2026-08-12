@@ -38,12 +38,7 @@ I have published approximately **180 papers** in international journals and conf
 
 Selected research areas include:
 
--  Machine learning and deep learning
-- Large language models and foundation models
-- Retrieval-Augmented Generation
-- Time-series forecasting by Deep models
-- AI-based biological and behavioral analysis
-- Fuzzy systems and computational intelligence
+[Augmenting RAG with NMF Driven Semantic Chunking]([GOOGLE_SCHOLAR_PAPER_LINK](https://link.springer.com/article/10.1007/s11227-026-08370-3))
 
 ---
 
