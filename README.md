@@ -44,8 +44,6 @@ Selected research areas include:
 
 * [Allo-Self-RAG: Fuzzy aggregation of internal and external critique signals for improved Self-RAG evaluation](https://scholar.google.com/scholar?q=Allo-Self-RAG+Fuzzy+aggregation+of+internal+and+external+critique+signals+for+improved+Self-RAG+evaluation)
 
-* [Small Language Models for Time Series Prediction: Advances, Challenges, and Future Directions](https://scholar.google.com/scholar?q=Small+Language+Models+for+Time+Series+Prediction+Advances+Challenges+and+Future+Directions)
-
 * [MG-CRAG: Fusion of Multi-Granular Retrieval Evaluators in Corrective RAG with Weakly Supervised Fine-Tuning](https://scholar.google.com/scholar?q=MG-CRAG+fusion+of+multi-granular+retrieval+evaluators+in+corrective+RAG+with+weakly+supervised+fine-tuning)
 
 * [Augmenting RAG with Nonnegative Matrix Factorization-Driven Semantic Chunking in Embedding Space](https://scholar.google.com/scholar?q=Augmenting+RAG+with+nonnegative+matrix+factorization-driven+semantic+chunking+in+embedding+space)
