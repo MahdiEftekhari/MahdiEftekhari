@@ -38,7 +38,64 @@ I have published approximately **180 papers** in international journals and conf
 
 Selected research areas include:
 
-[Augmenting RAG with NMF Driven Semantic Chunking]([https://link.springer.com/article/10.1007/s11227-026-08370-3])
+## 📚 Publications
+
+### 2026
+
+* [Allo-Self-RAG: Fuzzy aggregation of internal and external critique signals for improved Self-RAG evaluation](https://scholar.google.com/scholar?q=Allo-Self-RAG+Fuzzy+aggregation+of+internal+and+external+critique+signals+for+improved+Self-RAG+evaluation)
+
+* [Small Language Models for Time Series Prediction: Advances, Challenges, and Future Directions](https://scholar.google.com/scholar?q=Small+Language+Models+for+Time+Series+Prediction+Advances+Challenges+and+Future+Directions)
+
+* [MG-CRAG: Fusion of Multi-Granular Retrieval Evaluators in Corrective RAG with Weakly Supervised Fine-Tuning](https://scholar.google.com/scholar?q=MG-CRAG+fusion+of+multi-granular+retrieval+evaluators+in+corrective+RAG+with+weakly+supervised+fine-tuning)
+
+* [Augmenting RAG with Nonnegative Matrix Factorization-Driven Semantic Chunking in Embedding Space](https://scholar.google.com/scholar?q=Augmenting+RAG+with+nonnegative+matrix+factorization-driven+semantic+chunking+in+embedding+space)
+
+* [PFE-SELF-RAG: Balancing Self-RAG Evaluation Metrics via Pareto Efficiency](https://scholar.google.com/scholar?q=PFE-SELF-RAG+Balancing+Self-RAG+Evaluation+Metrics+via+Pareto+Efficiency)
+
+* [Optimizing Prompts Efficiently with Iterative Determinantal Point Processes](https://scholar.google.com/scholar?q=Optimizing+Prompts+Efficiently+with+Iterative+Determinantal+Point+Processes)
+
+### 2025
+
+* [Impact of Converting Graphs into Spanning Trees on Node and Graph Classification in Graph Neural Network](https://scholar.google.com/scholar?q=Impact+of+converting+graphs+into+spanning+trees+on+node+and+graph+classification+in+Graph+Neural+Network)
+
+### 2024
+
+* [A Similarity Measure Based on Subspace Distance for Spectral Clustering](https://scholar.google.com/scholar?q=A+similarity+measure+based+on+subspace+distance+for+spectral+clustering)
+
+* [QuickCharNet: An Efficient URL Classification Framework for Enhanced Search Engine Optimization](https://scholar.google.com/scholar?q=QuickCharNet+An+Efficient+URL+Classification+Framework+for+Enhanced+Search+Engine+Optimization)
+
+* [Generating Modern Persian Carpet Map by Style-Transfer](https://scholar.google.com/scholar?q=Generating+modern+persian+carpet+map+by+style-transfer)
+
+* [Evaluating Traditional versus Ensemble Machine Learning Methods for Predicting Missing Data of Daily PM10 Concentration](https://scholar.google.com/scholar?q=Evaluating+traditional+versus+ensemble+machine+learning+methods+for+predicting+missing+data+of+daily+PM10+concentration)
+
+* [Beyond Words: A Heterogeneous Graph Representation of Text via Graph Neural Networks for Classification](https://scholar.google.com/scholar?q=Beyond+Words+A+Heterogeneous+Graph+Representation+of+Text+via+Graph+Neural+Networks+For+Classification)
+
+* [A Hybrid Method of Self-Supervised Graph Embedding, Siamese Networks, and Transformers for Sentiment Analysis in Persian Language](https://scholar.google.com/scholar?q=A+Hybrid+Method+of+Self-Supervised+Graph+Embedding+Siamese+Networks+and+Transformers+for+Sentiment+Analysis+in+Persian+Language)
+
+### 2023
+
+* [DINO-CXR: A Self-Supervised Method Based on Vision Transformer for Chest X-Ray Classification](https://scholar.google.com/scholar?q=DINO-CXR+A+Self+Supervised+Method+Based+on+Vision+Transformer+for+Chest+X-Ray+Classification)
+
+* [Low-Redundant Unsupervised Feature Selection Based on Data Structure Learning and Feature Orthogonalization](https://scholar.google.com/scholar?q=Low-Redundant+Unsupervised+Feature+Selection+Based+on+Data+Structure+Learning+and+Feature+Orthogonalization)
+
+* [Deep Metric Learning with Soft Orthogonal Proxies](https://scholar.google.com/scholar?q=Deep+Metric+Learning+with+Soft+Orthogonal+Proxies)
+
+* [SELF-VS: Self-Supervised Encoding Learning for Video Summarization](https://scholar.google.com/scholar?q=SELF-VS+Self-supervised+Encoding+Learning+For+Video+Summarization)
+
+* [A Novel Framework Based on the Multi-Label Classification for Dynamic Selection of Classifiers](https://scholar.google.com/scholar?q=A+novel+framework+based+on+the+multi-label+classification+for+dynamic+selection+of+classifiers)
+
+* [A Hybrid Method of Self-Supervised Graph Embedding, Siamese Networks and Transformers for Sentiment Analysis in Persian Language](https://scholar.google.com/scholar?q=A+Hybrid+Method+of+Self-Supervised+Graph+Embedding+Siamese+Networks+and+Transformers+for+Sentiment+Analysis+in+Persian+Language)
+
+* [Image-Text Connection: Exploring the Expansion of the Diversity Within Joint Feature Space Similarity Scores](https://scholar.google.com/scholar?q=Image-Text+Connection+Exploring+the+Expansion+of+the+Diversity+Within+Joint+Feature+Space+Similarity+Scores)
+
+---
+
+### 🔎 Complete Publication List
+
+For the complete and most up-to-date list of publications and citation information, please visit my:
+
+[**Google Scholar Profile**](https://scholar.google.com/citations?hl=en&user=e5qD3-EAAAAJ&view_op=list_works&sortby=pubdate)
+
 
 ---
 
