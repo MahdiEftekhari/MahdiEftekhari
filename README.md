@@ -1,4 +1,4 @@
-# Hi, I'm Mahdi Eftekhari 
+# About me:
 
 **Full Professor of Computer Engineering | Artificial Intelligence Researcher | Visiting Researcher at InfAI Dresden**
 
