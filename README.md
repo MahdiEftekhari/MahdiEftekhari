@@ -58,9 +58,10 @@ Selected research areas include:
 
 * [A Similarity Measure Based on Subspace Distance for Spectral Clustering](https://scholar.google.com/scholar?q=A+similarity+measure+based+on+subspace+distance+for+spectral+clustering)
 
-* [A Systematic Comparison of Fuzzy deep learning models Against Traditional deep architectures](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e5qD3-EAAAAJ&sortby=pubdate&citation_for_view=e5qD3-EAAAAJ:mKu_rENv82IC) 
-* 
-[Better Chunks, Better Answers: Recursive Segmentation and NMF for Efficient RAG in Tiny LLMs](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e5qD3-EAAAAJ&sortby=pubdate&citation_for_view=e5qD3-EAAAAJ:sszUF3NjhM4C) 
+* [A Systematic Comparison of Fuzzy deep learning models Against Traditional deep architectures](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e5qD3-EAAAAJ&sortby=pubdate&citation_for_view=e5qD3-EAAAAJ:mKu_rENv82IC)
+  
+* [Better Chunks, Better Answers: Recursive Segmentation and NMF for Efficient RAG in Tiny LLMs](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e5qD3-EAAAAJ&sortby=pubdate&citation_for_view=e5qD3-EAAAAJ:sszUF3NjhM4C)
+  
 ### 2024
 * [QuickCharNet: An Efficient URL Classification Framework for Enhanced Search Engine Optimization](https://scholar.google.com/scholar?q=QuickCharNet+An+Efficient+URL+Classification+Framework+for+Enhanced+Search+Engine+Optimization)
 
